@@ -1,0 +1,1 @@
+{"version":3,"sources":["artist.ts"],"names":[],"mappings":";;;;;;QAUA,CAAC","file":"artist.js","sourcesContent":["export interface Artist {\n    name: string;\n    shortname: string;\n    reknown: string;\n    bio: string;\n    clientName : string;\n    email:string;\n    policyNumber:number;\n    phone:string;\n}\n"]}
